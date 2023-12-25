@@ -1,6 +1,6 @@
 # RREF Matrix and System Solver
 
-This repository contains Python code for performing Row Reduction to Echelon Form (RREF) on a given matrix and solving the associated system of linear equations. The code uses the Gaussian elimination method to convert the input matrix to its reduced row-echelon form and then extracts information about the variables and constants to represent the system of linear equations.
+This repository contains Python code for performing Row Reduction to Echelon Form (RREF) on a given matrix and solving the associated system of linear equations. The code uses the Gaussian elimination method to convert the input matrix to its reduced row-echelon form and then extracts information about the variables and constants to represent the system of linear equations. This project involves understanding of `Linear Algebra` and `Python implementation`
 
 ## Table of Contents
 
